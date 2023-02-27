@@ -9,4 +9,3 @@ const shoppingChart = {
 
 console.log(Object.keys(shoppingChart));
 console.log(Object.values(shoppingChart));
-console.log(Object.values(shoppingChart));
