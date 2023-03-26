@@ -7,5 +7,13 @@ const shoppingChart = {
     shoue:1
 }
 
+const person = {
+    firstName: "John",
+    lastName: "Doe",
+    age: 50,
+    eyeColor: "blue"
+  };
+
 console.log(Object.keys(shoppingChart));
 console.log(Object.values(shoppingChart));
+console.log(person)
